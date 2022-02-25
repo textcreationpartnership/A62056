@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some late epistles to the body writ from time to time, as the Spirit gave utterance; now published in the same. With a lamentation in the life, over all who have shrunk, or may shrink in this day and hour of great tryal and tribulation, inward and outward, that is, and is to be.</title>
+            <author>Swinton, John, 1621?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62056</idno>
+            <idno type="STC">Wing S6286</idno>
+            <idno type="STC">ESTC R214105</idno>
+            <idno type="EEBO-CITATION">99826322</idno>
+            <idno type="PROQUEST">99826322</idno>
+            <idno type="VID">30719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1801:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some late epistles to the body writ from time to time, as the Spirit gave utterance; now published in the same. With a lamentation in the life, over all who have shrunk, or may shrink in this day and hour of great tryal and tribulation, inward and outward, that is, and is to be.</title>
+                  <author>Swinton, John, 1621?-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland? :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: 11th 5th month, 1663. J. Swintoun.</note>
+                  <note>Caption title.</note>
+                  <note>Suggested place of publication and imprint date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:30719:1"/>
+            <pb n="1" facs="tcp:30719:1" rendition="simple:additions"/>
+            <head>SOME LATE EPISTLES To the BODY; Writ from time to time, as the Spirit gave utterance; Now publiſhed in the ſame.</head>
+            <head type="sub">WITH A LAMNETATION in the Life, over all who have ſhrunk, or may ſhrink in this day and hour of great Tryal and Tribu<g ref="char:EOLhyphen"/>lation, <hi>Inward</hi> and <hi>Outward,</hi> that is, and is to be.</head>
+            <div n="1" type="letter">
+               <head>EPISTLE I.</head>
+               <opener>
+                  <salute>DEar Friends,</salute>
+               </opener>
+               <p>all who are of the Seed and Birth Immor<g ref="char:EOLhyphen"/>tal, know ye, remember ye that, know it, that this is, hath been, a <hi>winnowing</hi> hour, an hour of great dark<g ref="char:EOLhyphen"/>neſs and temptation upon all, an hour of great rebuke: Dear Loves, all in the Love and Bowels of my Father I exhort, I charge, I beſeech you all and every one of you, to ſink down and be low and lowly, and meek and compaſſionate of heart, to<g ref="char:EOLhyphen"/>wards all the ſons and daughters of men, even towards all, eſ<g ref="char:EOLhyphen"/>pecially the houſhold of Faith, moſt eſpecially ſuch as have been overtaken with any infirmity; in meekneſs and fear walk towards ſuch, that they may be reſtored, recovered, not driven further off, remembering the Bowels, and Compaſſions, and tender Heart of
+<pb n="2" facs="tcp:30719:2"/> Him towards all and every one of you, who hath not taken occa<g ref="char:EOLhyphen"/>ſion againſt you, but hath watched to be gracious, and to over<g ref="char:EOLhyphen"/>come the Evil with the Good. Dear Loves, be like-minded, that in your Fathers Spirit you may be found healers, reſtorers of breaches of Paths to dwell in. Remembring alſo, that it is the heart, the mind joyn'd to iniquity, againſt which the controverſie, the indig<g ref="char:EOLhyphen"/>nation of the Almighty God is; and that he maketh not an offen<g ref="char:EOLhyphen"/>der for a word, an action, where the mind is not joyned to iniquity.</p>
+               <closer>
+                  <dateline>
+                     <date>15th 1ſt. Month, 1663.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="2" type="letter">
+               <head>EPISTLE II.</head>
+               <p>LEt none be diſcouraged, let none be diſcouraged, Dear Loves let none be diſcouraged that ſit not down by the way, ma<g ref="char:EOLhyphen"/>king covenants, that wait to be delivered from, to be relieved from all yoaks and bonds, whom nothing can ſatisfie but to be free indeed; Let none ſuch be diſcouraged, for He will appear to your abundant conſolation, will break thorow all the Clouds, rend all the Vailes, break all the Fetters and Bonds, not a hoof ſpared. Oh! Oh! Oh! the Day, the Day that haſtens is at hand, even at the door, of joy and conſolation, peace and gladneſs, quietneſs and confidence, the mouths of all gain-ſayers ſtopt, to the ſincere, ſingle in heart; and the woe, and miſery, the deſo<g ref="char:EOLhyphen"/>lation, and anguiſh to the hollow-hearted Hypocrite.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="3" type="letter">
+               <head>EPISTLE III.</head>
+               <p>I Have ſeen, I have ſeen, that it is not words, notions, defini<g ref="char:EOLhyphen"/>tions, comprehenſions, opinions, that ſaves or damns; where<g ref="char:EOLhyphen"/>in is the acceptation, the reprobation, the juſtification, the con<g ref="char:EOLhyphen"/>demnation, but in the right or wrong Spirit, the mind joyned in Love with ſubject thereunto? I have alſo ſeen, That the mind joyned to the wrong Spirit, may own a found Form of Words: and
+<pb n="3" facs="tcp:30719:2"/> alſo the mind joyned to the right, may be under ſome Darkneſs, and miſ-underſtanding in ſome things. This is felt and witneſſed in this day; and this is alſo plainly traiceable in the Scriptures of Truth: So the ſum, the main of all to be minded, is, What ſpi<g ref="char:EOLhyphen"/>rit thou art born off, led by, poſſeſſed with, joyned to: for who are born of the Spirit, are led by the Spirit; and who are joyned to the Lord, are one Spirit. So all know what ſpirit you are of; for this is the tryal of this day, to try what ſpirit any are of: and this ſhall abundantly be manifeſted before this day be over; yea, every one are to mind, yea, all and every one, without excepti<g ref="char:EOLhyphen"/>on of any, are to mind it; not ſo much what words, practices, they own, or have owned, as what ſpirit they are poſſeſſed with, joyned to, led by; I ſay, are preſently poſſeſſed with; for what was yeſter<g ref="char:EOLhyphen"/>day, will not ſerve turn: and it is he or they, who endures to the end, receive the Crown; the things behind, are to be left behind: It is what ſpirit is preſently in the dominion, is to be minded, to be eternally joyned to, not to go a whoring from the right Spirit. You are to have the right Spirit; and who have not the Spirit of Chriſt, are none of his; are poſſeſſed with the wrong ſpirit, are in the reprobate ſpirit, in the reprobation, in the rejected ſpirit, reprobated from the Life, the Spirit that makes all things mani<g ref="char:EOLhyphen"/>feſt, and from which nothing, nor no ſpirit can be hid; and ſo brings the mind into openneſs, ſingleneſs, to ſtand in the preſence, to be covered with the Life, the Juſtification, where the deeds are wrought in God, where there is no condemnation in Chriſt Jeſus; in Chriſt Jeſus, in him covered with the Saviour, the Anointed one, the Anointing of God in Him, one Spirit with him, in him, in the juſtification of the Life, and ſo out of the con<g ref="char:EOLhyphen"/>demnation, the reprobation; and ſuch walk not after the Fleſh, but after the Spirit, and there is no condemnation to ſuch.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="4" type="letter">
+               <head>EPISTLE IV.</head>
+               <opener>
+                  <salute>DEar Friends all,</salute>
+               </opener>
+               <p>remember, in the lowly, ſober, meek, and humble mind, that <hi>Moſes,</hi> even <hi>Moſes,</hi> the choſen of God, with whom God ſpake face to face, the meekeſt man upon
+<pb n="4" facs="tcp:30719:3"/> the earth, fell; and where? at the waters of ſtrife. Oh dear Lambs all! what have been my burdens, my lamentations, for theſe waters of ſtrife? depth! depth! depth have been the provo<g ref="char:EOLhyphen"/>cations! I charge no man, I leave each to their own, only here, and fear, and conſider; That <hi>Moſes,</hi> even <hi>Moſes</hi> the meekeſt man in his day upon the earth, fell, at the waters of ſtrife, and ſo could not enter into the Land of reſt, the promiſed Land, on<g ref="char:EOLhyphen"/>ly ſaw it afar off.</p>
+               <closer>
+                  <dateline>
+                     <date>26th 4th Month, 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="5" type="letter">
+               <head>EPISTLE V.</head>
+               <opener>
+                  <salute>OH Lambs and little Ones, bleſſed Flock of my Fathers fold!</salute>
+               </opener>
+               <p>ſing and rejoyce, and ſhout, ſhout for joy and glad<g ref="char:EOLhyphen"/>neſs of heart, for the hour of your redemption; yea, the hour of your redemption is come; yea, the bleſſed hour of your re<g ref="char:EOLhyphen"/>demption is come, in a way wonderful and glorious, beyond all that ever ye could have thought of, or conceived: Oh! eternal eternal, living Acknowledgements to the Life, the Power, the Redemption, the Redeemer, that hath done, and will do wonder<g ref="char:EOLhyphen"/>fully, beyond all can be thought or conceived, in the behalf of his ſimple, ſingle, harmleſs People, that have no help in the earth, but himſelf alone; therefore he is their Saviour and their Salvation, their Redeemer, and their Redemption, in Him they have no lack. Oh! the bleſſed day of God, who can declare it, who can witneſs it, who can ſing forth his Praiſes, who can declare his Name ſufficiently? He, even he alone, is all the Salvation and deſire of his People. This is the Day of God, he is come, and his reward is with him; and all the Lambs and little Ones, are abundantly ſatisfied in him, in looking to him alone.</p>
+               <closer>
+                  <dateline>
+                     <date>17th 5th Month, 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="6" type="letter">
+               <head>EPISTLE VI.</head>
+               <p>THe Lord, the Lord, the God of <hi>Jacob</hi> lives and reigns; therefore fear you not, nor be diſcouraged you Lambs and little Ones, your Father lives and reigns, and doth in Heaven and Earth what
+<pb n="5" facs="tcp:30719:3"/> he will: this is Salvation enough, this is deliverance enough to the ſingle-heart. Oh dear Lambs, here dwell, here abide, look not out; let your mind be ſtayed ſingly, ſtayed upon your Rock, and, What can aile you, what can harm you? what can you want while you are preſerved faithful, obedient to, laid down in the Will? Dear Lambs, look not out: that which looks out, is not to be de<g ref="char:EOLhyphen"/>livered, is not to be preſerved, is to dye,</p>
+               <p>And thus ſaith the Lord my God in me, <hi>I will ariſe, I will ariſe as in Mount</hi> Perazim; <hi>I will be wroth as in the Valley of</hi> Megiddon, <hi>I will bring forth my Work, my ſtrange Work, and who ſhall let it? I will work wonders, I will work wonders, I will work wonders in the be<g ref="char:EOLhyphen"/>half of my Lambs and People. I will deliver them, I will deliver them, I will deliver them, the whole, the whole Earth ſhall not hinder the deliverance: I will bring forth in behalf of my People whom I have choſen to magnifie my Name, in and by; and will be avenged upon their Enemies with a ſudden and a ſore deſtruction; their deſtruction cometh as a whirl-wind. The day, the hour, is at hand, wherein I will be mag<g ref="char:EOLhyphen"/>nified upon, over the Heathen that know not God.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>26th 5th Month, 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="7" type="letter">
+               <head>EPISTLE VII.</head>
+               <opener>
+                  <salute>DEar and tenderly beloved Friends all, of the Seed and Birth Immortal,</salute>
+               </opener>
+               <p>how do I travel, labour, travel in ſpirit under much heavineſs, bowed down under the ſight and feeling of what is, and is to come; of which I have not been ſilent, the Life through me hath not: for what am I, but the poor contemptible veſſel (and let me be ſo for ever ſaith my ſoul) through which it hath conveyed? Oh! Oh Friends! the ſafety, the only ſafety, is each to their own, ſink down there, ſtill, ſtill, out of all things, all appearances, all words, all conſiderations, all obſervations, covered with the Subſtance, with the patient, innocent, loving, tender, forbearing Life and Nature, the Tryal, the Tryal, the Try<g ref="char:EOLhyphen"/>al of this day, <hi>Inward</hi> and <hi>Outward; Inward, Inward,</hi> is to bring all to this, to live <hi>In,</hi> and to the proper meaſure only, to know no man, nor nothing, but in this. Oh dear Loves! I am to remem<g ref="char:EOLhyphen"/>ber
+<pb n="6" facs="tcp:30719:4"/> you of it, you know it (though the ſimplicity hath received a bruiſe in many) this is the Unity, the bond of Peace, the Pre<g ref="char:EOLhyphen"/>ſervation, the Strength, the All, the Sum of all, each to be found in, to abide in their own; and the Miniſtration of all is to teſtifie to this, to miniſter to this, to witneſs to this, to lead to this, and not from it; elſe their miniſtration is the miniſtration of Death, in ſo far: And therefore it deeply, greatly concerneth all, in the dread and fear of the living God, to watch, and be ſober, and for<g ref="char:EOLhyphen"/>bearing, in what they ſay or write, that in the meaſure of the Ma<g ref="char:EOLhyphen"/>nifeſtation only, they do ſpeak or write; wherein their ſafety alſo, will be to exerciſe forbearance, till they may not forbear: For Friends all, ye know it all of you, that are of the Seed and Birth Immortal, that there is a tendency in all words (in all manner of words, yea, in words as well ſpoken within as without, even ſpoken in the Eternal) to lead out. Therefore hear, and fear, and conſider, and be low and lowly, and meek, and ſober, is the Ex<g ref="char:EOLhyphen"/>hortation of the Life through me, to all of you, to ſink down, and anſwer the Call, the Tryal, the Redemption, the Salvation, the glorious living Salvation of this day, wherein the bleſſing, and the glory of it lies (how bitter ſoever the appearance of it may be for the time) even that every one muſt come to their own, muſt ſtand in their own, to their own, the un-erring, certain, ſteady Path, each in their own particulars, here to dwell, here to abide for ever: here is the Unity, the Bond of Peace, here is ſtability and ſafe<g ref="char:EOLhyphen"/>ty, yea, here, and here only.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div n="8" type="letter">
+               <head>EPISTLE VIII.</head>
+               <opener>
+                  <salute>DEar Lambs all,</salute>
+               </opener>
+               <p>the glory, the wonder of the deliverance of this day and hour, the wonderful and glorious deliverance of this day is hid, hid, ſhut up from the mind that looketh out, it is the mind in union with the will, laid down therein, paſſing through the ſufferings <hi>Inward, Inward,</hi> and <hi>Outward,</hi> not enquiring, conſi<g ref="char:EOLhyphen"/>dering, or looking out, that hath, that hath the deliverance, that is in the deliverance, in the wonderful and glorious deliverance, that is out of all appearances, comes not with obſervation, to the
+<pb n="7" facs="tcp:30719:4"/> eye that is abroad, looks out. Dear Loves all, ſink down and be ſtill, and who do ſo, poſſeſs, witneſs, ſee the glorious, the wonder<g ref="char:EOLhyphen"/>ful deliverance of this day and hour, that is hid from the eye of all living in obſervations abroad in the many things, gazing and won<g ref="char:EOLhyphen"/>dering, and haſtening, and fretting, and vexing, diſappointing, and diſappointed, and periſhing, deſpiſing the day of ſmall things, even the Salvation that is in, and thorow the contemptible little ſmall Seed, to all that are in union therewith, ſubject thereunto, every one in their particular meaſure, weaned, weaned, from all things elſe, neither aſcending, nor deſcending; he who hath little, hath no lack, and he that hath moſt, nothing over; here is the preſer<g ref="char:EOLhyphen"/>vation, here is the dominion, the redemption, the deliverance in this hour to be preſerved ſober, and ſingle here, chaſt to the mea<g ref="char:EOLhyphen"/>ſure of the Manifeſtation, of the Life in the particular; here to be preſerved for ever, is deliverance, is Salvation enough to the ſin<g ref="char:EOLhyphen"/>gle heart, as to their own particular: And in the behalf of all, that all may be brought hither, kept here, in the Unity, the Bond of Peace, the order preſerved, every one ſtanding and falling to his own Maſter, the Life, and the Life only in dominion, in and over all, Amen. <hi>Halelujah.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>10th 6th Month, 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A <hi>LAMENTATION</hi> in the <hi>Life,</hi> over all who have <hi>ſhrunk,</hi> or may <hi>ſhrink</hi> in this day and hour of great Tryal and Tribulation, <hi>Inward</hi> and <hi>Outward,</hi> that is, and is to be.</head>
+            <opener>
+               <salute>OH Friends!</salute>
+            </opener>
+            <p>what can preſerve you, relieve you, reſtore you, but the Rock of Ages? what hath hindered, doth weaken, and brings you under, and will, but unbelief, and unfaithfulneſs there-through; your not giving up ſingly, your looking out, and let<g ref="char:EOLhyphen"/>ting in the reaſoner, your not cleaving to the living God, the Meaſure of him manifeſted in you, ſinking down to that, dying to, ceaſing from all things elſe, looking to God alone, laying your account, reckoning no leſs than all to be given up, life and all, as it is, ſhall be called for, without reſerving more or leſs; minding
+<pb n="8" facs="tcp:30719:5"/> nor mattering no preſervation, but to be preſerved faithful, ſingle, obedient in all things, to the end; faithful to the Light, the Meaſure, watching to and in that, and ſo preſerved out of the backwardneſs, and out of the forwardneſs, led by the Spirit in all things; and who are not, ſhall not be; What can they do in this day and hour eſpecially, but ſtumble and fall, be offended, be an offence? So there is no ſafety, there can be no ſafety out of the Path, the unerring certain Path, which is the Croſs to the wiſdom, willings, runnings, and ſpirit of this World, which is a Path be<g ref="char:EOLhyphen"/>yond, out of the view of all appearances, reaſonings, conſiderati<g ref="char:EOLhyphen"/>ons, the vultrous eye reacheth not, and yet the leaſt of the King<g ref="char:EOLhyphen"/>dom know it, who are born of the Spirit, walk after, are led by the Spirit. Oh my burdens, my lamentations, my complaints, the floods of ſorrows, that have paſſed over me upon this account, that this which is the one thing neceſſary, hath been, and is ſo lit<g ref="char:EOLhyphen"/>tle minded by many, I ſay, minded in power, ſingleneſs, ſim<g ref="char:EOLhyphen"/>plicity, and truth, minded as the ſum of all, to be chaſte to the leadings, movings, openings, drawings of the Light, the parti<g ref="char:EOLhyphen"/>cular Meaſure, to watch to this continually, not to fall ſhort of it, not to out-run it. What maketh ſo unequal, unſteady, un<g ref="char:EOLhyphen"/>certain ſtepts but this? forwardneſs to do things that may be forborn, and gender into weakneſs and confuſion; and backward<g ref="char:EOLhyphen"/>neſs to do theſe things, cannot be forborn without offence, at home and abroad.</p>
+            <closer>
+               <dateline>
+                  <date>11th 5th Month, 1663.</date>
+               </dateline>
+               <signed>J. SUINTOUN.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:30719:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
